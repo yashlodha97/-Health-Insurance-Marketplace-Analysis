@@ -18,7 +18,7 @@ The predictive model utilizes machine learning techniques, specifically a regres
 # Usage
 * To use the predictive model:
 
-1. Clone the Repository: git clone <repository_url>
+1. Clone the Repository: git clone <[repository_url](https://github.com/yashlodha97/-Health-Insurance-Marketplace-Analysis/tree/main)>
 2. Install Dependencies: pip install -r requirements.txt
 3. Run the Model: python Assignment.ipynb
 
